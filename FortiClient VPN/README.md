@@ -11,8 +11,8 @@ Pre-packaged installers are available in the following subdirectories:
 | Platform | Directory | File(s) |
 |---|---|---|
 | macOS | [`MacOs/`](./MacOs/) | `FortiClientVPN_7.4.3.6667_OnlineInstaller.dmg` |
-| Windows (x86-64) | [`Win/`](./Win/) | `FortiClientVPNInstaller.exe` |
-| Windows (ARM64) | [`Win/`](./Win/) | `FortiClientVPNInstaller_arm64.exe` |
+| Windows (x86-64) | [`Win/`](./Win/) | `FortiClientVPNInstaller.exe` — for standard Intel/AMD 64-bit processors (most desktop and laptop PCs) |
+| Windows (ARM64) | [`Win/`](./Win/) | `FortiClientVPNInstaller_arm64.exe` — for ARM-based Windows devices (e.g., Microsoft Surface Pro X, Snapdragon-powered laptops) |
 
 > **Note:** The installers stored here may not reflect the latest release. It is recommended to download the most recent version directly from the official Fortinet website (see below).
 

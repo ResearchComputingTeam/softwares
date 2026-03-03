@@ -14,4 +14,4 @@ Each software directory contains a `README.md` with installation instructions, v
 
 ## Support
 
-For assistance, contact the RCCG support team or open an issue in this repository.
+For assistance, contact the RCCG support team at [rccgsupport@hbku.edu.qa](mailto:rccgsupport@hbku.edu.qa) or open an issue in this repository.
